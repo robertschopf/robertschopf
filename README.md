@@ -12,7 +12,7 @@
 🌱 This GitHub profile documents my ongoing learning journey in data analysis.  I'm eager to connect and continue growing together through data-driven projects!
 
 📫 I'm open to new opportunities and collaborations in data analysis. 
-  Reach out on [LinkedIn](www.linkedin.com/in/robertschopf) to connect!
+  Reach out on [LinkedIn](http://www.linkedin.com/in/robertschopf) to connect!
 
 <!---
 robertschopf/robertschopf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
