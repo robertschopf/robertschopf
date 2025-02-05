@@ -1,3 +1,5 @@
+# Hi there, I'm Robert Schopf. I'm a data analyst with a background in sports management.
+
 👀 I'm passionate about turning raw data into valuable insights and solutions for businesses. My background in managing complex operations 
   and leading teams gives me a unique perspective on how data can be used to optimize processes, improve efficiency, and achieve strategic goals.
 
