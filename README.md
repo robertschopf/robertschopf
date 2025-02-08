@@ -8,8 +8,7 @@
 🤝 Seeking opportunities to collaborate on data analysis projects involving PYTHON (including Pandas, NumPy, Seaborn and Matplotlib),
     SQL, EXCEL, GOOGLE-SHEETS and data visualization with tools like TABLEAU.
 
-👨‍💻 I am a family person and enjoy spending time with my children. I also keep fit at the gym, enjoy going to the cinema and learning more about data analysis. 
-   I love working on my own projects and discovering new countries and cultures.
+👨‍💻👨‍👩‍👧‍ In my free time, I actively pursue my passion for data analysis by exploring new concepts and working on personal projects. I find inspiration in discovering new cultures through travel and enjoy maintaining a healthy lifestyle with regular gym visits. My family provides invaluable support and helps me recharge for my professional endeavors.
 
 🌱 This GitHub profile [documents my ongoing learning journey](https://github.com/robertschopf/Data-Analytics-Portfolio) in data analysis.  I'm eager to connect and continue growing together through data-driven projects!
 
