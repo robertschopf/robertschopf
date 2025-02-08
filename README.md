@@ -11,7 +11,7 @@
 👨‍💻 I am a family person and enjoy spending time with my children. I also keep fit at the gym, enjoy going to the cinema and learning more about data analysis. 
    I love working on my own projects and discovering new countries and cultures.
 
-🌱 This GitHub profile documents my ongoing learning journey in data analysis.  I'm eager to connect and continue growing together through data-driven projects!
+🌱 This GitHub profile [documents my ongoing learning journey](https://github.com/robertschopf/Data-Analytics-Portfolio) in data analysis.  I'm eager to connect and continue growing together through data-driven projects!
 
 📫 I'm open to new opportunities and collaborations in data analysis. 
   Reach out on [LinkedIn](http://www.linkedin.com/in/robertschopf) to connect!
