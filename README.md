@@ -1,7 +1,8 @@
 ## Hi, I'm Robert 👋
 ### Business Analyst | Data Strategy | Process Excellence
 
-👀 I am a **Business Analyst** who bridges the gap between technical data engineering and strategic executive needs. With a decade of experience in high-stakes 
+👀 I am a **Business Analyst** who bridges the gap between technical data engineering and 
+   strategic executive needs. With a decade of experience in high-stakes 
    operational leadership (€10M+ budget responsibility), I leverage data to solve real-world business challenges.
 
 - 📊 **What I do:** I translate "Data-Speak" into "Management-Speak".
