@@ -1,19 +1,35 @@
-## Hi, I'm Robert, a data analyst with sport management background👋
+## Hi, I'm Robert 👋
+### Senior Business Analyst | Data Strategy | Process Excellence
 
-👀 I'm passionate about turning raw data into valuable insights and solutions for businesses. My background in managing complex operations 
-  and leading teams gives me a unique perspective on how data can be used to optimize processes, improve efficiency, and achieve strategic goals.
+👀 I am a **Business Analyst** who bridges the gap between technical data engineering and strategic executive needs. With a decade of experience in high-stakes 
+   operational leadership (€10M+ budget responsibility), I leverage data to solve real-world business challenges.
 
-🌱 I’m a Data Analyst with expertise in SQL, PYTHON, TABLEAU and GOOGLE-SHEETS.
+- 📊 **What I do:** I translate "Data-Speak" into "Management-Speak".
+- 🛠 **My Toolkit:** Advanced SQL, Python for Business Modeling, and Tableau for Executive Insights.
+- 💡 **Core Expertise:** ROI Analysis, Process Automation, and Strategic Growth.
 
-🤝 Seeking opportunities to collaborate on data analysis projects involving PYTHON (including Pandas, NumPy, Seaborn and Matplotlib),
-    SQL, EXCEL, GOOGLE-SHEETS and data visualization with tools like TABLEAU.
+---
 
-👨‍💻👨‍👩‍👧‍ In my free time, I actively pursue my passion for data analysis by exploring new concepts and working on personal projects. I find inspiration in discovering new cultures through travel and enjoy maintaining a healthy lifestyle with regular gym visits. My family provides invaluable support and helps me recharge for my professional endeavors.
+### 📈 Featured Business Cases
 
-🌱 This GitHub profile [documents my ongoing learning journey](https://github.com/robertschopf/Data-Analytics-Portfolio) in data analysis.  I'm eager to connect and continue growing together through data-driven projects!
+* **[Customer Loyalty & Marketing ROI Strategy](https://github.com/robertschopf/masteryProject_traveltide)**
+  *Leveraging Python and K-Means Clustering to automate personalized rewards, resulting in a projected 10% increase in marketing efficiency.*
 
-📫 I'm open to new opportunities and collaborations in data analysis. 
-  Reach out on [LinkedIn](http://www.linkedin.com/in/robertschopf) to connect!
+* **[Executive BI Dashboard: Profitability & Market Segments](https://github.com/robertschopf/unicorn_project)**
+  *Transforming raw PostgreSQL data into interactive Tableau dashboards to identify high-growth opportunities for C-level decision-making.*
+
+* **[Operational Process Automation: Resource Classification](https://github.com/robertschopf/supervised-machine-learning-project)**
+  *Implementing Supervised Learning models (Random Forest/SVM) to automate vehicle classification, streamlining operational workflows and resource planning.*
+
+---
+
+### 🛠 Technical Toolbox
+* **Data Analysis:** SQL (Advanced CTEs, Window Functions), Python (Pandas, NumPy).
+* **Machine Learning:** Scikit-learn (Clustering, Classification), Pattern Recognition.
+* **Visualization:** Tableau (Executive Dashboards), Matplotlib, Seaborn.
+* **Business Operations:** Budget Management (€10M+), KPI Frameworks, Stakeholder Management.
+
+📫 **Let's connect:** [LinkedIn](http://www.linkedin.com/in/robertschopf)
 
 <!---
 robertschopf/robertschopf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
