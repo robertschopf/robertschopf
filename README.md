@@ -5,19 +5,19 @@
    My background is operational, so I focus on solutions that are practical, reliable and easy to adopt.
    I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization
 
-- 📊 **What I do:** I help teams understand how their data connects to their daily work. Most of my work sits in these areas:
-*   Business Analysis & Requirements
-*   Customer Data & Data Quality
-*   BI Reporting & KPI Logic
-*   Process Mapping & Workflow Improvement
-*   UAT & cross‑functional collaboration
+📊 **What I do:** I help teams understand how their data connects to their daily work. Most of my work sits in these areas:
+- Business Analysis & Requirements
+- Customer Data & Data Quality
+- BI Reporting & KPI Logic
+- Process Mapping & Workflow Improvement
+- UAT & cross‑functional collaboration
 
-- 🛠 **My Toolkit:**
+🛠 **My Toolkit:**
 - SQL for exploring and preparing data
-                    Python (Pandas) for cleaning, merging and modeling
-                    Power BI / Tableau for dashboards and reporting
-                    Process Mapping to understand how work actually flows
-                    Documentation & Requirements Engineering for clarity and alignment
+- Python (Pandas) for cleaning, merging and modeling
+- Power BI / Tableau for dashboards and reporting
+- Process Mapping to understand how work actually flows
+- Documentation & Requirements Engineering for clarity and alignment
 
 ---
 
