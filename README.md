@@ -1,12 +1,10 @@
 ## Hi, I'm Robert 👋
 ### Business Analyst | Data & Process Improvement | Customer Data
 
-👀 I work somewhere between business processes and data. Over the years I’ve helped teams clean up their data, understand how their workflows actually run and build reporting that people can use without needing a manual.
+👀 I work somewhere between business processes and data. Over the years I’ve helped teams clean up their data, understand how their workflows actually run and build reporting that people can use without needing a manual.  
+My background is operational, so I naturally lean toward solutions that are practical and easy to roll out.  
+I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization. Brazil is also on my radar, mostly because of family ties and the time I spent living in São Paulo — so it’s a realistic second target market for me.
 
-My background is operational, so I naturally lean toward solutions that are practical and easy to roll out.
-
-I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization.
-Brazil is also on my radar, mostly because of family ties and the time I spent living in São Paulo — so it’s a realistic second target market for me.
 
 
 ### 🔍 **What I do:**
