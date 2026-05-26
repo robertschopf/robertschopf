@@ -1,13 +1,23 @@
 ## Hi, I'm Robert 👋
-### Business Analyst | Data & Process Improvement
+### Business Analyst | Data & Process Improvement | Customer Data
 
-👀 I work at the intersection of business operations and data. Over the past years, I’ve supported teams by improving data quality, mapping processes, and building reporting that actually helps people make decisions.
+👀 I work where business processes and data meet. Over the last decade, I’ve supported teams by improving data quality, mapping workflows, and building reporting that helps    people make better decisions.
+   My background is operational, so I focus on solutions that are practical, reliable and easy to adopt.
+   I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization
 
-My background comes from operational environments, so I focus on solutions that are practical, reliable and easy to use — not just technically interesting.
+- 📊 **What I do:** I help teams understand how their data connects to their daily work.
+                    Most of my work sits in these areas:
+                    - Business Analysis & Requirements
+                    - Customer Data & Data Quality
+                    - BI Reporting & KPI Logic
+                    - Process Mapping & Workflow Improvement
+                    - UAT & cross‑functional collaboration
 
-- 📊 **What I do:** I translate "Data-Speak" into "Management-Speak".
-- 🛠 **My Toolkit:** Advanced SQL, Python for Business Modeling, and Tableau for Executive Insights.
-- 💡 **Core Expertise:** ROI Analysis, Process Automation, and Strategic Growth.
+- 🛠 **My Toolkit:** SQL for exploring and preparing data
+                    Python (Pandas) for cleaning, merging and modeling
+                    Power BI / Tableau for dashboards and reporting
+                    Process Mapping to understand how work actually flows
+                    Documentation & Requirements Engineering for clarity and alignment
 
 ---
 
