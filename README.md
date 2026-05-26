@@ -2,8 +2,8 @@
 ### Business Analyst | Data & Process Improvement | Customer Data
 
 👀 I work where business processes and data meet. Over the years I’ve helped teams improve data quality, understand their workflows and build reporting that actually supports day‑to‑day decisions.
-   My background is operational, so I tend to focus on solutions that are practical and easy to adopt.
-   I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization.
+My background is operational, so I tend to focus on solutions that are practical and easy to adopt.
+I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization.
 
 
 ### 🔍 **What I do:**
@@ -16,7 +16,7 @@ Most of my experience sits somewhere between:
 - Process Mapping & Workflow Improvement
 - UAT & cross‑functional collaboration
 
-###🛠 **My Toolkit:**
+### 🛠 **My Toolkit:**
 - SQL for exploring and preparing data
 - Python (Pandas) for cleaning, merging and modeling
 - Tableau / Power BI for dashboards and reporting
