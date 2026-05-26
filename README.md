@@ -42,7 +42,7 @@ I like to keep things simple: understand the problem, look at the data, talk to 
 Good solutions don’t have to be complicated. They just need to be useful.
 
 ### 🔗 Let’s connect
-** If you’re working on Business Analysis, Data or Process topics, feel free to reach out on [LinkedIn.](http://www.linkedin.com/in/robertschopf)
+If you’re working on Business Analysis, Data or Process topics, feel free to reach out on [LinkedIn.](http://www.linkedin.com/in/robertschopf)
 
 <!---
 robertschopf/robertschopf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
