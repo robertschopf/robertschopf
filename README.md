@@ -41,7 +41,7 @@ Tried out different approaches (including Random Forest) and documented the resu
 I like to keep things simple: understand the problem, look at the data, talk to the people involved, and build something that fits into their daily routine.
 Good solutions don’t have to be complicated. They just need to be useful.
 
-📫 **Let's connect:** [LinkedIn](http://www.linkedin.com/in/robertschopf)
+###🔗 Let’s connect** If you’re working on Business Analysis, Data or Process topics, feel free to reach out on [LinkedIn.](http://www.linkedin.com/in/robertschopf)
 
 <!---
 robertschopf/robertschopf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
