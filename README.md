@@ -12,7 +12,8 @@
 *   Process Mapping & Workflow Improvement
 *   UAT & cross‑functional collaboration
 
-- 🛠 **My Toolkit:** SQL for exploring and preparing data
+- 🛠 **My Toolkit:**
+- SQL for exploring and preparing data
                     Python (Pandas) for cleaning, merging and modeling
                     Power BI / Tableau for dashboards and reporting
                     Process Mapping to understand how work actually flows
