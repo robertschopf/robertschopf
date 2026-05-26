@@ -28,15 +28,15 @@ Most of my work falls into things like:
 
 ### 📂 Selected Projects
 
-* **[Customer Segmentation & Loyalty Insights](https://github.com/robertschopf/masteryProject_traveltide)**
+* **[Customer Segmentation & Loyalty Insights](https://github.com/robertschopf/masteryProject_traveltide)**  
 *Looked into customer behaviour and played around with simple clustering to understand different engagement patterns.
 Used SQL and Python to prep the data and built a small prototype the marketing team could test.*
 
-* **[Operational Dashboard for Management](https://github.com/robertschopf/unicorn_project)**
+* **[Operational Dashboard for Management](https://github.com/robertschopf/unicorn_project)**  
 *Built a Power BI/Tableau dashboard that pulls KPIs from several systems.
 The idea was to give leadership a clearer view of segments, trends and bottlenecks.*
 
-* **[Process Automation Prototype](https://github.com/robertschopf/supervised-machine-learning-project)**
+* **[Process Automation Prototype](https://github.com/robertschopf/supervised-machine-learning-project)**  
 *Worked on a small classification model to support a manual workflow step.
 Tried a few approaches (including Random Forest) and documented the results so the operations team could evaluate the potential.*
 
