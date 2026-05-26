@@ -21,24 +21,25 @@
 
 ---
 
-### 📈 Featured Business Cases
+### 📂 Selected Projects
 
-* **[Customer Loyalty & Marketing ROI Strategy](https://github.com/robertschopf/masteryProject_traveltide)**
-  *Leveraging Python and K-Means Clustering to automate personalized rewards, resulting in a projected 10% increase in marketing efficiency.*
+* **[Customer Segmentation & Loyalty Insights](https://github.com/robertschopf/masteryProject_traveltide)**
+  *Analysed customer behaviour and explored simple clustering logic to understand different engagement patterns.
+Prepared the data using SQL and Python and built a small prototype that helped the marketing team test ideas around loyalty rewards.*
 
-* **[Executive BI Dashboard: Profitability & Market Segments](https://github.com/robertschopf/unicorn_project)**
-  *Transforming raw PostgreSQL data into interactive Tableau dashboards to identify high-growth opportunities for C-level decision-making.*
+* **[Operational Dashboard for Management](https://github.com/robertschopf/unicorn_project)**
+  *Created a Power BI/Tableau dashboard that brings together KPIs from several systems.
+The goal was to give leadership a clearer view of segments, trends and operational bottlenecks.*
 
-* **[Operational Process Automation: Resource Classification](https://github.com/robertschopf/supervised-machine-learning-project)**
-  *Implementing Supervised Learning models (Random Forest/SVM) to automate vehicle classification, streamlining operational workflows and resource planning.*
+* **[Process Automation Prototype](https://github.com/robertschopf/supervised-machine-learning-project)**
+  *Worked on a small classification model to support a manual workflow step.
+Tried out different approaches (including Random Forest) and documented the results so the operations team could evaluate the potential for automation.*
 
 ---
 
-### 🛠 Technical Toolbox
-* **Data Analysis:** SQL (Advanced CTEs, Window Functions), Python (Pandas, NumPy).
-* **Machine Learning:** Scikit-learn (Clustering, Classification), Pattern Recognition.
-* **Visualization:** Tableau (Executive Dashboards), Matplotlib, Seaborn.
-* **Business Operations:** Budget Management (€10M+), KPI Frameworks, Stakeholder Management.
+### 🧩 How I work
+I like to keep things simple: understand the problem, look at the data, talk to the people involved, and build something that fits into their daily routine.
+Good solutions don’t have to be complicated. They just need to be useful.
 
 📫 **Let's connect:** [LinkedIn](http://www.linkedin.com/in/robertschopf)
 
