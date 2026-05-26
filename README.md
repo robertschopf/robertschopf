@@ -7,11 +7,11 @@
 
 - 📊 **What I do:** I help teams understand how their data connects to their daily work.
                     Most of my work sits in these areas:
-                    - Business Analysis & Requirements
-                    - Customer Data & Data Quality
-                    - BI Reporting & KPI Logic
-                    - Process Mapping & Workflow Improvement
-                    - UAT & cross‑functional collaboration
+* **                   - Business Analysis & Requirements
+* **                   - Customer Data & Data Quality
+* **                    - BI Reporting & KPI Logic
+* **                    - Process Mapping & Workflow Improvement
+* **                    - UAT & cross‑functional collaboration
 
 - 🛠 **My Toolkit:** SQL for exploring and preparing data
                     Python (Pandas) for cleaning, merging and modeling
