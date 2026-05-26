@@ -6,7 +6,7 @@
    I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization.
 
 
-📊 **What I do:**
+### 📊 **What I do:**
 I help teams understand what their data means and how it fits into their daily work.
 Most of my experience sits somewhere between:
 
