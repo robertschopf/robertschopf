@@ -1,11 +1,13 @@
 ## Hi, I'm Robert 👋
 ### Business Analyst | Data & Process Improvement | Customer Data
 
-👀 I work where business processes and data meet. Over the last decade, I’ve supported teams by improving data quality, mapping workflows, and building reporting that helps    people make better decisions.
-   My background is operational, so I focus on solutions that are practical, reliable and easy to adopt.
-   I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization
+👀 I work where business processes and data meet. Over the years I’ve helped teams improve data quality, understand their workflows and build reporting that actually supports day‑to‑day decisions.
+   My background is operational, so I tend to focus on solutions that are practical and easy to adopt.
+   I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization.
 
-📊 **What I do:** I help teams understand how their data connects to their daily work. Most of my work sits in these areas:
+
+📊 **What I do:** I help teams understand what their data means and how it fits into their daily work.
+                  Most of my experience sits somewhere between:
 - Business Analysis & Requirements
 - Customer Data & Data Quality
 - BI Reporting & KPI Logic
@@ -15,7 +17,7 @@
 🛠 **My Toolkit:**
 - SQL for exploring and preparing data
 - Python (Pandas) for cleaning, merging and modeling
-- Power BI / Tableau for dashboards and reporting
+- Tableau / Power BI for dashboards and reporting
 - Process Mapping to understand how work actually flows
 - Documentation & Requirements Engineering for clarity and alignment
 
@@ -24,7 +26,7 @@
 ### 📂 Selected Projects
 
 * **[Customer Segmentation & Loyalty Insights](https://github.com/robertschopf/masteryProject_traveltide)**
-  *Analysed customer behaviour and explored simple clustering logic to understand different engagement patterns.
+  *Looked into customer behaviour and experimented with simple clustering logic to understand different engagement patterns.
 Prepared the data using SQL and Python and built a small prototype that helped the marketing team test ideas around loyalty rewards.*
 
 * **[Operational Dashboard for Management](https://github.com/robertschopf/unicorn_project)**
@@ -38,7 +40,7 @@ Tried out different approaches (including Random Forest) and documented the resu
 ---
 
 ### 🧩 How I work
-I like to keep things simple: understand the problem, look at the data, talk to the people involved, and build something that fits into their daily routine.
+I try to keep things simple: understand the problem, look at the data, talk to the people involved and build something that fits into their daily routine.
 Good solutions don’t have to be complicated. They just need to be useful.
 
 ### 🔗 Let’s connect
