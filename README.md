@@ -1,14 +1,15 @@
 ## Hi, I'm Robert 👋
 ### Business Analyst | Data & Process Improvement | Customer Data
 
-👀 I work where business processes and data meet. Over the years I’ve helped teams improve data quality, understand their workflows and build reporting that actually supports day‑to‑day decisions.
-My background is operational, so I tend to focus on solutions that are practical and easy to adopt.
+👀 I work somewhere between business processes and data. Over the years I’ve helped teams clean up their data, understand how their workflows actually run and build reporting that people can use without needing a manual.
+My background is operational, so I naturally lean toward solutions that are practical and easy to roll out.
 I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization.
+Brazil is also on my radar, mostly because of family ties and the time I spent living in São Paulo — so it’s a realistic second target market for me.
 
 
 ### 🔍 **What I do:**
-I help teams understand what their data means and how it fits into their daily work.
-Most of my experience sits somewhere between:
+I help teams make sense of their data and connect it to what they do every day.
+Most of my work falls into things like:
 
 - Business Analysis & Requirements
 - Customer Data & Data Quality
@@ -17,27 +18,27 @@ Most of my experience sits somewhere between:
 - UAT & cross‑functional collaboration
 
 ### 🛠 **My Toolkit:**
-- SQL for exploring and preparing data
-- Python (Pandas) for cleaning, merging and modeling
-- Tableau / Power BI for dashboards and reporting
-- Process Mapping to understand how work actually flows
-- Documentation & Requirements Engineering for clarity and alignment
+- SQL for digging into data
+- Python (Pandas) for cleaning, merging and modelling
+- Tableau / Power BI for dashboards
+- Process Mapping to understand how work really flows
+- Documentation & Requirements Engineering for clarity
 
 ---
 
 ### 📂 Selected Projects
 
 * **[Customer Segmentation & Loyalty Insights](https://github.com/robertschopf/masteryProject_traveltide)**
-  *Looked into customer behaviour and experimented with simple clustering logic to understand different engagement patterns.
-Prepared the data using SQL and Python and built a small prototype that helped the marketing team test ideas around loyalty rewards.*
+*Looked into customer behaviour and played around with simple clustering to understand different engagement patterns.
+Used SQL and Python to prep the data and built a small prototype the marketing team could test.*
 
 * **[Operational Dashboard for Management](https://github.com/robertschopf/unicorn_project)**
-  *Created a Power BI/Tableau dashboard that brings together KPIs from several systems.
-The goal was to give leadership a clearer view of segments, trends and operational bottlenecks.*
+*Built a Power BI/Tableau dashboard that pulls KPIs from several systems.
+The idea was to give leadership a clearer view of segments, trends and bottlenecks.*
 
 * **[Process Automation Prototype](https://github.com/robertschopf/supervised-machine-learning-project)**
-  *Worked on a small classification model to support a manual workflow step.
-Tried out different approaches (including Random Forest) and documented the results so the operations team could evaluate the potential for automation.*
+*Worked on a small classification model to support a manual workflow step.
+Tried a few approaches (including Random Forest) and documented the results so the operations team could evaluate the potential.*
 
 ---
 
