@@ -5,8 +5,7 @@
    My background is operational, so I focus on solutions that are practical, reliable and easy to adopt.
    I’m currently relocating to Spain and looking for roles in Business Analysis, Data/BI, Customer Data and Process Optimization
 
-- 📊 **What I do:** I help teams understand how their data connects to their daily work.
-                    Most of my work sits in these areas:
+- 📊 **What I do:** I help teams understand how their data connects to their daily work. Most of my work sits in these areas:
 *   Business Analysis & Requirements
 *   Customer Data & Data Quality
 *   BI Reporting & KPI Logic
